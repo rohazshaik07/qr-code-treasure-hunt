@@ -96,7 +96,7 @@ To run the project locally:
 
 | Component Collection | Leaderboard | Admin Page |
 |----------------------|-------------|--------------|
-| ![Collection Interface](https://github.com/user-attachments/assets/11b03b51-525d-4031-baa9-2dd258fd1d25) | ![Leaderboard](https://github.com/user-attachments/assets/8bd78287-bcc3-48d7-9498-337a49f5bd8f) | ![Admin](https://github.com/user-attachments/assets/1438ac1f-fa45-48ab-ad15-fdb569917d28) |
+| ![Image](https://github.com/user-attachments/assets/c36e301e-dc27-47cd-b472-caba82e6811f) | ![Image](https://github.com/user-attachments/assets/26ad713e-bf3f-459c-9457-ed1e4d12d90c) | ![Image](https://github.com/user-attachments/assets/f67857fc-4480-4466-a137-0ae6f7d589e7) |
 
 ## Code Highlights
 
