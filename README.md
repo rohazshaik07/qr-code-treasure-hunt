@@ -1,7 +1,7 @@
 
 # QR Code Treasure Hunt
 
-![QR Code Treasure Hunt Banner](https://github.com/user-attachments/assets/7ea7cf0e-47e6-4a81-87ca-e8c9fb22e735)
+![Image](https://github.com/user-attachments/assets/330affe7-39ab-4d1e-be96-f8f81b8c4df6)
 
 ## Overview
 
