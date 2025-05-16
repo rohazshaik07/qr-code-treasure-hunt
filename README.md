@@ -1,7 +1,7 @@
 
 # QR Code Treasure Hunt
 
-![Image](https://github.com/user-attachments/assets/330affe7-39ab-4d1e-be96-f8f81b8c4df6)
+![Image](https://res.cloudinary.com/ded4wm8pu/image/upload/v1747396694/Screenshot_2025-05-16_111721_zlir3t.png)
 
 ## Overview
 
@@ -96,7 +96,7 @@ To run the project locally:
 
 | Component Collection | Leaderboard | Admin Page |
 |----------------------|-------------|--------------|
-| ![Image](https://github.com/user-attachments/assets/c36e301e-dc27-47cd-b472-caba82e6811f) | ![Image](https://github.com/user-attachments/assets/26ad713e-bf3f-459c-9457-ed1e4d12d90c) | ![Image](https://github.com/user-attachments/assets/f67857fc-4480-4466-a137-0ae6f7d589e7) |
+| ![Image](https://res.cloudinary.com/ded4wm8pu/image/upload/v1747396467/Screenshot_2025-05-16_114054_tzgsee.png) | ![Image](https://res.cloudinary.com/ded4wm8pu/image/upload/v1747396406/Screenshot_2025-05-16_113318_uvtn9j.png) | ![Image](https://res.cloudinary.com/ded4wm8pu/image/upload/v1747396439/Screenshot_2025-05-16_115552_sxz5e5.png) |
 
 ## Code Highlights
 
